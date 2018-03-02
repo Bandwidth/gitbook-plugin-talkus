@@ -20,7 +20,8 @@ Add plugin to your `book.json`, then run `gitbook install`:
     "plugins": ["talkus"],
     "pluginsConfig": {
         "talkus": {
-            "talkusId": "12345678abc"
+            "talkusId": "12345678abc",
+            "tag": "chatroomname"
         }
     }
 }

@@ -22,7 +22,12 @@
   "gitbook": {
     "properties": {
       "talkusId": {
-        "description": "Identify your js name",
+        "description": "Identify your talkus appId",
+        "required": true,
+        "type": "string"
+      },
+      "tag": {
+        "description": "Add a tag to your talkus button",
         "required": true,
         "type": "string"
       }
