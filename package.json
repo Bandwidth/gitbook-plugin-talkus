@@ -1,0 +1,31 @@
+{
+  "name": "gitbook-plugin-talkus",
+  "version": "1.0.0",
+  "description": "Add talkus code to gitbook ",
+  "scripts": {
+    "test": "echo \"No Tests\""
+  },
+  "keywords": [
+    "gitbook",
+    "talkus",
+    "live-chat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtolb/gitbook-plugin-talkus"
+  },
+  "author": "Dan Tolbert",
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "gitbook": {
+    "properties": {
+      "talkusId": {
+        "description": "Identify your js name",
+        "required": true,
+        "type": "string"
+      }
+    }
+  }
+}
