@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-talkus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add talkus code to gitbook ",
   "scripts": {
     "test": "echo \"No Tests\""
