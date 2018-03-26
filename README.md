@@ -11,9 +11,8 @@ Add plugin to your `book.json`, then run `gitbook install`:
 }
 ```
 
-#### Configure usabilla token:
+#### Configure talkus token:
 
-![Configure](usabilla.png)
 
 ```json
 {
